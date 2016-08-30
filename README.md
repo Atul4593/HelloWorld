@@ -1,2 +1,5 @@
 # HelloWorld
-First program on github
+
+Hi team,
+
+I am here to learn, contribute and share the coding knowledge.
